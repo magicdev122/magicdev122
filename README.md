@@ -9,8 +9,8 @@ Regards.
 
 - 🌱 I’m currently learning blockchain technologies
 - 🤔 I’m looking to help with buliding smart contracts and web apps
+- 💼I'm enthusiast in **Creative Front-End Design**
 - 💬 Ask me about web and blockchain development
-
 
 ### Languages and Tools:
 
@@ -41,3 +41,15 @@ Regards.
 
 #### Other
 ![](https://img.shields.io/badge/CI/CD-Github_Action-informational?style=flat&logo=github&logoColor=white&color=3bac3a)
+
+## &#x1f4c8; My GitHub stats
+
+<p align="center">
+  <a href="https://github.com/topdev122/topdev122" alt="Top lang stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=topdev122&layout=compact"/>
+  </a>
+  <a href="https://github.com/topdev122/topdev122">
+    <!--Options: &hide=stars,commits,prs,issues,contribs-->
+    <img src="https://github-readme-stats.vercel.app/api?username=topdev122&show_icons=true&hide=prs" />
+  </a>
+</p>
