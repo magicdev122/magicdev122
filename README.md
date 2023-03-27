@@ -5,7 +5,7 @@ Leaded successful transition from MEAN & MERN Stack to Web3 & Cryptocurrency Sta
 Nowadays I interested in blockchain technologies so that I'm mainly focusing on the Ethereum development stack.
 Looking forward to hearing from you.
 Regards.
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/99034743/159381479-da89d532-bab2-4e1c-b427-a8bf281dcb2f.gif" width="400" height="256" />
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/99034743/159381479-da89d532-bab2-4e1c-b427-a8bf281dcb2f.gif" width="400" height="270" />
 
 - 🌱 I’m currently learning blockchain technologies
 - 🤔 I’m looking to help with buliding smart contracts and web apps
@@ -26,6 +26,7 @@ Regards.
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+
 
 #### Blockchain Development
 ![](https://img.shields.io/badge/Network-Ethereum-informational?style=flat&logo=ethereum&logoColor=white&color=3bac3a)
