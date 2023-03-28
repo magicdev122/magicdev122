@@ -3,7 +3,7 @@
 Hi, I am a senior fullstack, Blockchain developer who is specialized in web development.
 Leaded successful transition from MEAN & MERN Stack to Web3 & Cryptocurrency Stack to improve Web3.0 system performance which is the focus and the future of our life, so for now implemented DAO, DEX, DApp, NFT Marketplaces by using solidity, rust and web3. <br/>
 Nowadays I interested in blockchain technologies so that I'm mainly focusing on the Ethereum development stack.
-Looking forward to hearing from you.
+Looking forward to hearing from you.<br/>
 Regards.
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/99034743/159381479-da89d532-bab2-4e1c-b427-a8bf281dcb2f.gif" width="400" height="270" />
 <br/>
