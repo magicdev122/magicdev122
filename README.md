@@ -6,8 +6,7 @@ Nowadays I interested in blockchain technologies so that I'm mainly focusing on 
 Looking forward to hearing from you.<br/>
 Regards.
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/99034743/159381479-da89d532-bab2-4e1c-b427-a8bf281dcb2f.gif" width="400" height="270" />
-<br/>
-<br/>
+
 <br/>
 <br/>
 <br/>
