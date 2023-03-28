@@ -6,11 +6,17 @@ Nowadays I interested in blockchain technologies so that I'm mainly focusing on 
 Looking forward to hearing from you.
 Regards.
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/99034743/159381479-da89d532-bab2-4e1c-b427-a8bf281dcb2f.gif" width="400" height="270" />
-
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 - 🌱 I’m currently learning blockchain technologies
 - 🤔 I’m looking to help with buliding smart contracts and web apps
 - 💼I'm enthusiast in **Creative Front-End Design**
 - 💬 Ask me about web and blockchain development
+ <br/>
+ <br/>
 
 ### Languages and Tools:
 
