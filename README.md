@@ -10,9 +10,9 @@ Regards.
 <br/>
 <br/>
 <br/>
-- 🌱 I’m currently learning blockchain technologies
-- 🤔 I’m looking to help with buliding smart contracts and web apps
-- 💼I'm enthusiast in **Creative Front-End Design**
+- 🌱 I’m currently learning blockchain technologies<br/>
+- 🤔 I’m looking to help with buliding smart contracts and web apps<br/>
+- 💼I'm enthusiast in **Creative Front-End Design**<br/>
 - 💬 Ask me about web and blockchain development
  <br/>
  <br/>
