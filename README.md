@@ -12,7 +12,7 @@ Regards.
 <br/>
 - 🌱 I’m currently learning blockchain technologies<br/>
 - 🤔 I’m looking to help with buliding smart contracts and web apps<br/>
-- 💼I'm enthusiast in **Creative Front-End Design**<br/>
+- 💼I'm enthusiast in **Creative Front-End Building**<br/>
 - 💬 Ask me about web and blockchain development
  <br/>
  <br/>
