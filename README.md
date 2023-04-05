@@ -10,7 +10,7 @@ A great WordPress developer should have a solid understanding of PHP, CSS, HTML,
 - 🌱 I’m currently learning blockchain technologies<br/>
 - 🤔 I’m looking to help with buliding web sites and apps<br/>
 - 💼I'm enthusiast in **Creative Front-End Building**<br/>
-- 💬 Ask me about web and blockchain development
+- 💬 Ask me about Wordpress and MERN stack
  <br/>
  <br/>
  <br/>
