@@ -1,17 +1,14 @@
 ### Dear Everyone  👋
 
-Hi, I am a senior fullstack, Blockchain developer who is specialized in web development.
-Leaded successful transition from MEAN & MERN Stack to Web3 & Cryptocurrency Stack to improve Web3.0 system performance which is the focus and the future of our life, so for now implemented DAO, DEX, DApp, NFT Marketplaces by using solidity, rust and web3. <br/>
-Nowadays I interested in blockchain technologies so that I'm mainly focusing on the Ethereum development stack.<br/>
-Looking forward to hearing from you.<br/>
-Regards.
+Hi, I am a senior WEB developer who is specialized in React, Node, Wordpress, Laravel and blockchain.
+A great WordPress developer should have a solid understanding of PHP, CSS, HTML, and JavaScript, as these are the key languages used to build WordPress websites.<br/> Additionally, familiar with WordPress plugins and themes, which can be used to extend the functionality and appearance of WordPress sites<br/>
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/99034743/159381479-da89d532-bab2-4e1c-b427-a8bf281dcb2f.gif" width="400" height="270" />
 
 <br/>
 <br/>
 <br/>
 - 🌱 I’m currently learning blockchain technologies<br/>
-- 🤔 I’m looking to help with buliding smart contracts and web apps<br/>
+- 🤔 I’m looking to help with buliding web sites and apps<br/>
 - 💼I'm enthusiast in **Creative Front-End Building**<br/>
 - 💬 Ask me about web and blockchain development
  <br/>
