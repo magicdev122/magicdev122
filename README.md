@@ -1,8 +1,10 @@
 ### Dear Everyone  👋
 
 Hi, I am a senior WEB developer who is specialized in React, Node, Wordpress, Laravel and blockchain.<br/>
-A great WordPress developer should have a solid understanding of PHP, CSS, HTML, and JavaScript, as these are the key languages used to build WordPress websites.<br/> Additionally, familiar with WordPress plugins and themes, which can be used to extend the functionality and appearance of WordPress sites<br/>
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/99034743/159381479-da89d532-bab2-4e1c-b427-a8bf281dcb2f.gif" width="400" height="270" />
+A great WordPress developer should have a solid understanding of PHP, CSS, HTML, and JavaScript, as these are the key languages used to build WordPress websites.<br/> Additionally, familiar with WordPress plugins and themes, which can be used to extend the functionality and appearance of WordPress sites
+<br/>
+<br/>
+<img align="right" alt="GIF" src="https://camo.githubusercontent.com/fa73289736064aba480d0708da37d7aa183a8c3e2bcc2f58c54285a3bbbeecc1/68747470733a2f2f7777772e61616c7068612e6e65742f77702d636f6e74656e742f75706c6f6164732f323032302f31322f66756c6c2d737461636b2d646576656c6f706d656e742e676966" width="400" height="270" />
 
 <br/>
 <br/>
